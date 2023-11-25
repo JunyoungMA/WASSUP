@@ -6,7 +6,7 @@
 
 ## Hi, I'm Jun to be Product Manager will
 
-<img align="left" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png" width='660'>
+<img align="left" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png" width='680'>
 	
 
 #### Let me introduce myself
