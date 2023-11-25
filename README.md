@@ -33,6 +33,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunyoungMA&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=JunyoungMA&show_icons=true">
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 <br>
 <div align=left>
@@ -55,4 +57,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
