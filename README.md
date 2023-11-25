@@ -55,3 +55,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunyoungMA&layout=compact"><br><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JunyoungMA&show_icons=true"> <img align="right" src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
