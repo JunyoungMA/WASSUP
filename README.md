@@ -36,7 +36,7 @@
 
 </div>
 <br>
-<div align=center>
+<div align=left>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=left>
