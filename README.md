@@ -44,10 +44,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1177862796529111060/1177862796529111062)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunyoungMA&layout=compact"><br><br>
-
-
 </div>
 <br>
 <div align=left>
@@ -58,3 +54,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunyoungMA&layout=compact"><br><br>
