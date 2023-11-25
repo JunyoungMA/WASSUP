@@ -1,6 +1,8 @@
 # WASSUP 👋
 ## 이스트소프트 AI 서비스기획 KDT 과정 1기
 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 <img align="right" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png">
 
 <h1> Hi, I'm Jun to be Product Manager will </h1>
