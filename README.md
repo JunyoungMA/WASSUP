@@ -26,7 +26,7 @@
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
-<img align="right" src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
+<img src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/oreumi/3072d0a2689946fd9763cef0bd0aa766?v=a06f73f31fd743b881c52e42f1b07f5e&pvs=4)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/?utm_source=pwa_homescreen&__pwa=1)
