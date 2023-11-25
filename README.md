@@ -28,8 +28,7 @@
 
 
 
-<div>
-  <div>
+
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/oreumi/3072d0a2689946fd9763cef0bd0aa766?v=a06f73f31fd743b881c52e42f1b07f5e&pvs=4)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/?utm_source=pwa_homescreen&__pwa=1)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1177862796529111060/1177862796529111062)
@@ -37,8 +36,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  </div>
-<div>
 <img align="right" src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
-<div>
-</div>
