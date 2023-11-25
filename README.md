@@ -2,7 +2,7 @@
 ## 이스트소프트 AI 서비스기획 KDT 과정 1기
 
 <div align=left>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IT's JUN's%20Github!&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IT's_JUN's%20Github!&fontSize=90" />
 
 ## Hi, I'm Jun to be Product Manager will
 
