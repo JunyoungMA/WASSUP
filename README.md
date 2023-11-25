@@ -3,8 +3,6 @@
 
 <img align="right" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png">
 
-<img src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='100' height='300'>
-
 
 <h1> Hi, I'm Jun to be Product Manager will </h1>
 
@@ -39,3 +37,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<img align="right" src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='100'>
