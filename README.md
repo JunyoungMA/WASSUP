@@ -42,7 +42,7 @@
 
 </div>
 <br>
-<div align=center>
+<div align>
 	<p>🛠 Tools 🛠</p>
 </div>
 
