@@ -2,7 +2,10 @@
 ## 이스트소프트 AI 서비스기획 KDT 과정 1기
 
 <div align=left>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JUN's%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JUN's%20Github!&fontSize=90" />
+
+<img align="right" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png">
+<h1> Hi, I'm Jun to be Product Manager will </h1>
 
 #### Let me introduce myself
 
