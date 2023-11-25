@@ -16,7 +16,7 @@
 - Pronouns: ...
 
 
-[![LYNMP 로고]([https://i.esdrop.com/d/dLd7n17hg9.png](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white))](https:google.com)
+[![LYNMP 로고]([[https://i.esdrop.com/d/dLd7n17hg9.png](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white](https://github.com/JunyoungMA/WASSUP/assets/151701198/98b69053-3d17-43d1-b511-333e40cbc1b9)))](https:google.com)
 
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
