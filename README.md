@@ -25,15 +25,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-<a href="http://melonicedlatte.com/">
-    <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>"
-        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
-</a>
-
-<!-- Example -->
-<a href="http://melonicedlatte.com/">
-    <img src="https://img.shields.io/badge/라벨-메시지-red"
-        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
-</a>
