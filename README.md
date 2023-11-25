@@ -4,8 +4,6 @@
 
 <img align="right" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi, I'm Jun to be Product Manager will&fontSize=90" />
-
 <h1> Hi, I'm Jun to be Product Manager will </h1>
 
 #### Let me introduce myself
@@ -26,6 +24,10 @@
 |테스트1|테스트2|테스트3|
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunyoungMA&theme=tokyo-night&height=400)](https://github.com/JunyoungMA/github-readme-activity-graph)
+
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunyoungMA&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=JunyoungMA&show_icons=true">
+
 
 <img src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
 
