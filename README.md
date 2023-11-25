@@ -26,6 +26,13 @@
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
+
+</div>
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunyoungMA&theme=tokyo-night&height=400)](https://github.com/JunyoungMA/github-readme-activity-graph)
 
 <img src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
