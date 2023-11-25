@@ -16,12 +16,24 @@
 - Pronouns: ...
 
 
-<a href='https://www.notion.so/oreumi/3072d0a2689946fd9763cef0bd0aa766?v=a06f73f31fd743b881c52e42f1b07f5e&pvs=4'>
+
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-</a>
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+<a href="http://melonicedlatte.com/">
+    <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>"
+        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>
+
+<!-- Example -->
+<a href="http://melonicedlatte.com/">
+    <img src="https://img.shields.io/badge/라벨-메시지-red"
+        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>
