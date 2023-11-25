@@ -1,7 +1,7 @@
 # WASSUP 👋
 ## 이스트소프트 AI 서비스기획 KDT 과정 1기
 
-<a href="google.com">
+<a href="www.google.com">
   <img align="right" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png">
 </a>
 
