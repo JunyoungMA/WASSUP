@@ -26,11 +26,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JunyoungMA&show_icons=true">, <img align="right" src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
 
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
