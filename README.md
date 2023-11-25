@@ -37,4 +37,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<img align="right" src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='100'>
+<img align="right" src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
