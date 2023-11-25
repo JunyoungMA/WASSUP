@@ -2,7 +2,7 @@
 ## 이스트소프트 AI 서비스기획 KDT 과정 1기
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jun%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JUN'S%20Github!&fontSize=90" />	
 
 #### Let me introduce myself
 
