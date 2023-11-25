@@ -1,8 +1,9 @@
 # WASSUP 👋
 ## 이스트소프트 AI 서비스기획 KDT 과정 1기
 
-<img align="right" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png">
-
+<a href="google.com">
+  <img align="right" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png">
+</a>
 
 <h1> Hi, I'm Jun to be Product Manager will </h1>
 
@@ -17,16 +18,13 @@
 - Pronouns: ...
 
 
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 |제목니ㅏㅇ루나ㅣㅇ루니ㅏ룬아ㅣㄹ|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
-<img src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
+
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/oreumi/3072d0a2689946fd9763cef0bd0aa766?v=a06f73f31fd743b881c52e42f1b07f5e&pvs=4)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/?utm_source=pwa_homescreen&__pwa=1)
@@ -35,4 +33,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<img src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
 
