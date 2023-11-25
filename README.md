@@ -28,7 +28,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunyoungMA&theme=tokyo-night&height=400)](https://github.com/JunyoungMA/github-readme-activity-graph)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JunyoungMA&show_icons=true">, <img src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JunyoungMA&show_icons=true">, <img align="right" src="https://github.com/JunyoungMA/WASSUP/assets/151701198/eebe8e84-518e-4186-8ff1-d84828f2d7b8"  width='200'>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
