@@ -24,7 +24,7 @@
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunyoungMA&theme=tokyo-night)](https://github.com/JunyoungMA/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunyoungMA&theme=tokyo-night&height=200)](https://github.com/JunyoungMA/github-readme-activity-graph)
 
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/oreumi/3072d0a2689946fd9763cef0bd0aa766?v=a06f73f31fd743b881c52e42f1b07f5e&pvs=4)
