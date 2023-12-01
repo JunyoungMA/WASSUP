@@ -1,13 +1,17 @@
-# WASSUP 👋
+# WASSUP 👋 
 ## 이스트소프트 AI 서비스기획 KDT 과정 1기
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyoungMA%2FWASSUP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align=left>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JUN's%20Github!&fontSize=90" />
 
-## Hi, I'm Jun to be Product Manager will
+## Hi, I'm Jun, who will be a product manager
 
 <img align="left" src="https://theproductmanager.b-cdn.net/wp-content/uploads/sites/4/2022/03/PRD-Digital-product-manager-Featured-Images-1280x720.png" width='600'>
 	
+
+
 
 ### Let me introduce myself
 
@@ -19,11 +23,7 @@
 	- How to reach me: ...
 	- Pronouns: ...
   
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunyoungMA&theme=tokyo-night&height=400)](https://github.com/JunyoungMA/github-readme-activity-graph)
 
